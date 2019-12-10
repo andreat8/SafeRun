@@ -1,0 +1,30 @@
+.container{
+  padding-top:30px;
+
+}
+
+.glyphicon {
+  margin-bottom: 10px;
+  margin-right: 10px;}
+
+small {
+  display: block;
+  line-height: 1.428571429;
+  color: #999;
+}
+
+
+.title{
+  text-align: center;
+  text-decoration: none;
+}
+
+#brand-image{
+  height:30px;
+  width:30px;
+}
+
+h1{
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
